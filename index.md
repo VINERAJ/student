@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Student Blog
+title: Vinay's Blog
 ---
 
-## Luna's Page
+## Vinay's Page
 
 Go to my [Github account](https://github.com/lunaiwa) !!
 
