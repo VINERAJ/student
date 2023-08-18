@@ -3,7 +3,7 @@ layout: default
 title: Vinay's Blog
 ---
 
-## Vinay's Page
+## ==Vinay's Page==
 
 Go to my [Github account](https://github.com/VINERAJ) !!
 
