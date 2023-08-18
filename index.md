@@ -15,6 +15,6 @@ Blogging in GitHub pages is a way to learn and code at the same time.
 - Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
 
 ## Freeform drawing of myself
-8/17/2023
+~~8/17/2023~~
 
 ![A beautiful drawing of myself!](Me.jpg "Me")
